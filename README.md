@@ -1,0 +1,1 @@
+Sentence is lazy i mean it only reads the next word from the text when it is needed i have write code in sentence_gen2, Sentence implemented using a generator function calling the re.finditer generator function.
